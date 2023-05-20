@@ -1,0 +1,25 @@
+.container{
+    width: 15px;
+    height: 15px;
+    align-items: center;
+    justify-content: center;
+    padding-top: 25%;
+    padding-bottom: 22%;
+    display: flex;
+}
+
+.body{
+    min-width: 100%;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #E7DFD8;
+}
+
+.container-fluid{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #B0A193;
+    z-index: 999;
+}
